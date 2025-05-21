@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Publications - Ephrem Bzuayehu Asmamawu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="page2.html">Projects</a> |
+    <a href="page3.html">Publications</a> |
+    <a href="page4.html">Gallery</a>
+  </nav>
+
+  <main>
+    <h1>Publications</h1>
+    <p>Below are some of my academic and professional publications:</p>
+
+    <ul>
+      <li><strong>Energy Optimization in Urban Buildings:</strong> Presented at the International Conference on Sustainable Energy (2023).</li>
+      <li><strong>Integration of PV and HVAC Systems:</strong> Published in the Journal of Renewable Energy Technology.</li>
+      <li><strong>Automotive Thermodynamics Study:</strong> Co-authored research featured at the African Engineering Symposium.</li>
+    </ul>
+  </main>
+</body>
+</html>

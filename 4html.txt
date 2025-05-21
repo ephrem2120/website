@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery - Ephrem Bzuayehu Asmamawu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="page2.html">Projects</a> |
+    <a href="page3.html">Publications</a> |
+    <a href="page4.html">Gallery</a>
+  </nav>
+
+  <main>
+    <h1>Gallery</h1>
+    <p>Visual highlights from my academic journey, professional experiences, and fieldwork:</p>
+
+    <div class="gallery">
+      <img src="images/project1.jpg" alt="Project 1" />
+      <img src="images/labwork.jpg" alt="Lab Work" />
+      <img src="images/conference.jpg" alt="Conference Presentation" />
+      <img src="images/solar-installation.jpg" alt="Solar Installation" />
+    </div>
+  </main>
+</body>
+</html>
