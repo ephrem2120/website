@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home - Ephrem Bzuayehu Asmamawu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="page2.html">Projects</a> |
+    <a href="page3.html">Publications</a> |
+    <a href="page4.html">Gallery</a>
+  </nav>
+  <h1>Welcome to My Portfolio</h1>
+  <p>Explore my journey in energy engineering, projects, publications, and visual stories!</p>
 
+  <a href="cv.pdf" class="download-btn" download>
+    📥 Download CV (PDF)
+  </a>
+</body>
+</html>
